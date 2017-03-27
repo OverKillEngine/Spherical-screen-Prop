@@ -1,0 +1,10 @@
+"preset"
+{
+	"filename"		"resource\models\spherical_screen.cat"
+	"name"		"Spherical Screen"
+	"category"		"Video Screens"
+	"model"		"models\cabinets\spherical_screen.mdl"
+	"type"		"cabinet"
+	"description"		"A ball shaped concave screen for viewing 360 spherical videos and images."
+	"instructions"		"create a shortcut to a 360 video or image.  Stand inside or appreciate from afar. "
+}
